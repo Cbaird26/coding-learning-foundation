@@ -1,5 +1,7 @@
 # Coding Learning Foundation
 
+**Open the school:** https://cbaird26.github.io/coding-learning-foundation/
+
 A Khan Academy-style self-study school: 63 courses in five stages, from kindergarten through a complete college computer
 science degree to a software engineering job — elementary, middle and high school (including computational thinking,
 Python, how computers and the internet work, and object-oriented programming), the CS degree (programming, discrete
